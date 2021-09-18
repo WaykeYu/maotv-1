@@ -53,7 +53,8 @@
             "name": "阿房影视",
             "type": 2,
             "api": "Scrawl1",
-            "playUrl": ""
+            "playUrl": "" 
+            "categories": [] 
         },
         {
             "key": "jpys_spider",
@@ -61,6 +62,7 @@
             "type": 2,
             "api": "Scrawl2",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "mgys_spider",
@@ -68,6 +70,7 @@
             "type": 2,
             "api": "Scrawl3",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "ysgc_spider",
@@ -75,6 +78,7 @@
             "type": 2,
             "api": "Scrawl4",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "好好影院",
@@ -269,6 +273,7 @@
             "type": 1,
             "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "乐播资源",
@@ -276,6 +281,7 @@
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "lyzy",
@@ -283,6 +289,7 @@
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/Seacms/vod/",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "hjzy",
@@ -290,6 +297,7 @@
             "type": 1,
             "api": "https://apihjzy.com/api.php/Seacms/vod/",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "ugzyz",
@@ -297,6 +305,7 @@
             "type": 1,
             "api": "https://www.ugvapi.com/inc/zyapimac.php",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "环亚资源",
@@ -304,6 +313,7 @@
             "type": 1,
             "api": "http://wmcj8.com/inc/sapi.php",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "sy",
@@ -311,6 +321,7 @@
             "type": 1,
             "api": "https://shayuapi.com/api.php/Seacms/vod/",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "av888资源",
@@ -318,6 +329,7 @@
             "type": 1,
             "api": "http://m.7777688.com/inc/api.php",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "鲨鱼资源",
@@ -325,13 +337,14 @@
             "type": 1,
             "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
             "playUrl": ""
-        },
+            "categories": []     },
         {
             "key": "AV-大地资源",
             "name": "AV-大地资源",
             "type": 1,
             "api": "https://dadiapi.com/api.php",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "AV-乐播资源",
@@ -339,6 +352,7 @@
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "AV-苍天资源",
@@ -346,6 +360,7 @@
             "type": 1,
             "api": "http://cj.cangtiancj.com/api.php/provide/vod/at/xml/",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "09蓝光影视",
@@ -353,6 +368,7 @@
             "type": 0,
             "api": "https://09tv.top/api.php/provide/vod/at/xml",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "yunboys.TV",
@@ -360,6 +376,7 @@
             "type": 0,
             "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "天堂影视",
@@ -367,6 +384,7 @@
             "type": 1,
             "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
             "playUrl": "https://vip.parwix.com:4433/player/?url="
+            "categories": [] 
         },
         {
             "key": "百度采集",
@@ -374,13 +392,14 @@
             "type": 1,
             "api": "https://api.bdjx.vip/api.php/provide/vod/",
             "playUrl": "https://vip.bljiex.com/?v="
-        },
+             "categories": []       },
         {
             "key": "陈家影视",
             "name": "陈家影视",
             "type": 1,
             "api": "https://www.cjt521.com/api.php/provide/vod/",
             "playUrl": "https://jiexi.cjt521.com/?url="
+            "categories": [] 
         },
         {
             "key": "白熊影视",
@@ -388,6 +407,7 @@
             "type": 0,
             "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "飞鱼影视",
@@ -395,6 +415,7 @@
             "type": 0,
             "api": "https://app.feiyu5.com/api.php/provide/vod/",
             "playUrl": ""
+            "categories": [] 
         },
         {
             "key": "293影院",
@@ -402,6 +423,7 @@
             "type": 0,
             "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
             "playUrl": "https://vip.bljiex.com/?v="
+            "categories": [] 
         },
         {
             "key": "8090资源",
@@ -409,6 +431,7 @@
             "type": 0,
             "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
             "playUrl": ""
+            "categories": [] 
         }
     ],
     "lives": [
